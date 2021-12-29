@@ -1,3 +1,5 @@
+![Visits Badge](https://badges.pufler.dev/visits/Shaket123/Shaket123)
+
 ### Hi there, I'm Shaket 👋 
 
 ### Connect with me:
