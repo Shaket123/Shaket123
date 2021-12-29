@@ -1,14 +1,34 @@
 ![Visits Badge](https://badges.pufler.dev/visits/Shaket123/Shaket123)
+![Repos Badge](https://badges.pufler.dev/repos/Shaket123/?color=blue)
 
-### Hi there, I'm Shaket 👋 
+# Hi there, I'm Shaket <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> 
 
-### Connect with me:
+I am a 4rd Year Undergrad pursuing Bachelors in Technology in Computer Science Engineering from Mumbai. <br><br>
+A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> and a **Design Enthusiast** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, who is obsessed with the idea of improving himself and explore various things.
+
+
+
+---
+
+## **😊 About me**
+
+- 🌱 I’m learning everything.
+- 👯 I’m looking to start a brand-new project/idea.
+- ⚡  Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
+- 📍 Location: Mumbai/India 🇮🇳:
+- 💬 Languages: English, Marathi, Hindi
+---
+
+
+## Connect with me:
 
 <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
+---
+
 
 ### Languages and Tools:
 
@@ -25,4 +45,6 @@
 
 <br />
 <br />
+---
+
 
